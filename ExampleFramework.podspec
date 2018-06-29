@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/DSanzh/ExampleFramework.git", :tag => '0.0.1' }
 
-  # s.source_files = "./**/*.{h,m}"
+  s.source_files = "ExampleCore/**/*.{c,h,m,hh,swift}"
   
   s.ios.deployment_target = '10.0'
   
