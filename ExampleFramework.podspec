@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Sanzh" => "dauylov.sanzhar@gmail.com" }
 
-  s.summary      = 'Data of example'
+  s.summary      = 'Framework of example'
 
   s.social_media_url   = "https://twitter.com/dauylov_sanzhar/"
   
