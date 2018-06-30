@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F2C6C9B4607C01544C20F83730266123"
-               BuildableName = "Pods_ExampleFramework.framework"
-               BlueprintName = "Pods-ExampleFramework"
-               ReferencedContainer = "container:Pods.xcodeproj">
+               BlueprintIdentifier = "9E1F101020E6565B00E001BC"
+               BuildableName = "ExampleFramework.framework"
+               BlueprintName = "ExampleFramework"
+               ReferencedContainer = "container:ExampleFramework.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F2C6C9B4607C01544C20F83730266123"
-            BuildableName = "Pods_ExampleFramework.framework"
-            BlueprintName = "Pods-ExampleFramework"
-            ReferencedContainer = "container:Pods.xcodeproj">
+            BlueprintIdentifier = "9E1F101020E6565B00E001BC"
+            BuildableName = "ExampleFramework.framework"
+            BlueprintName = "ExampleFramework"
+            ReferencedContainer = "container:ExampleFramework.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -60,6 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9E1F101020E6565B00E001BC"
+            BuildableName = "ExampleFramework.framework"
+            BlueprintName = "ExampleFramework"
+            ReferencedContainer = "container:ExampleFramework.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
